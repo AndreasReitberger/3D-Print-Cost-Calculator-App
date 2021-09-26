@@ -1,18 +1,26 @@
 # 3D-Print-Cost-Calculator-App
 
-![FeaturedImage](https://andreas-reitberger.de/wp-content/uploads/2020/07/feature-graphic_modified.png)
+![FeaturedImage](https://andreas-reitberger.de/wp-content/uploads/2021/09/app_print_cost_calculator_app_1.2.1.png)
 
 This app allows you to calculate your next 3D printing costs wherever you are. It comes with following features. The app is made with Microsoft Xamarin and written in C#.
 
 # Download
 The app is available for iOS & Android. Please find the download links below.
 
-AppStore: https://apps.apple.com/us/app/id1518476783
+AppStore: https://apps.apple.com/us/app/id1518476783<br />
+GooglePlay: https://play.google.com/store/apps/details?id=com.andreasreitberger.x3dpcc<br />
 
-GooglePlay: https://play.google.com/store/apps/details?id=com.andreasreitberger.x3dpcc
+# Test alpha / beta versions
+If you want to test alpha / beta versions and upcoming releases, please follow this link for further instructions.
+Currently you can join the Alpha testing on Android and iOS, please see the links below.
 
-# Test beta versions
-If you want to test beta versions and upcoming releases, please follow this link for further instructions.
+## Android:
+Lite: https://play.google.com/apps/testing/com.andreasreitberger.x3dpcclite<br />
+Pro: https://play.google.com/apps/testing/com.andreasreitberger.x3dpcc<br />
+
+## iOS:
+Lite: n.v.<br />
+Pro: https://testflight.apple.com/join/2OEBhYvr<br />
 
 # Feature list
 - Manage printers, materials, worksteps, customers
