@@ -1,102 +1,102 @@
 [
 	{
-	"Familiy":"Filament",
+	"Family":"Filament",
 	"Type":"PET"
 	},
 	{
-	"Familiy":"Filament",
+	"Family":"Filament",
 	"Type":"PETG"
 	},
 	{
-	"Familiy":"Filament",
+	"Family":"Filament",
 	"Type":"PLA"
 	},
 	{
-	"Familiy":"Filament",
+	"Family":"Filament",
 	"Type":"PC"
 	},
 	{
-	"Familiy":"Filament",
+	"Family":"Filament",
 	"Type":"ASA"
 	},
 	{
-	"Familiy":"Filament",
+	"Family":"Filament",
 	"Type":"FLEX"
 	},
 	{
-	"Familiy":"Filament",
+	"Family":"Filament",
 	"Type":"TPU"
 	},
 	{
-	"Familiy":"Filament",
+	"Family":"Filament",
 	"Type":"NYLON"
 	},
 	{
-	"Familiy":"Filament",
+	"Family":"Filament",
 	"Type":"ABS"
 	},
 	{
-	"Familiy":"Filament",
+	"Family":"Filament",
 	"Type":"HIPS"
 	},
 	{
-	"Familiy":"Filament",
+	"Family":"Filament",
 	"Type":"EDGE"
 	},
 	{
-	"Familiy":"Filament",
+	"Family":"Filament",
 	"Type":"NGEN"
 	},
 	{
-	"Familiy":"Filament",
+	"Family":"Filament",
 	"Type":"PVA"
 	},
 	{
-	"Familiy":"Filament",
+	"Family":"Filament",
 	"Type":"PP"
 	},
 	{
-	"Familiy":"Filament",
+	"Family":"Filament",
 	"Type":"PEI"
 	},
 	{
-	"Familiy":"Filament",
+	"Family":"Filament",
 	"Type":"PEEK"
 	},
 	{
-	"Familiy":"Filament",
+	"Family":"Filament",
 	"Type":"PEKK"
 	},
 	{
-	"Familiy":"Filament",
+	"Family":"Filament",
 	"Type":"POM"
 	},
 	{
-	"Familiy":"Filament",
+	"Family":"Filament",
 	"Type":"PSU"
 	},
 	{
-	"Familiy":"Filament",
+	"Family":"Filament",
 	"Type":"PVDF"
 	},
 	{
-	"Familiy":"Filament",
+	"Family":"Filament",
 	"Type":"SCAFF"
 	},
 	{
-	"Familiy":"Resin",
+	"Family":"Resin",
 	"Type":"TOUGH"
 	},
 	{
-	"Familiy":"Resin",
+	"Family":"Resin",
 	"Type":"CAST"
 	},
 	{
-	"Familiy":"Resin",
+	"Family":"Resin",
 	"Type":"DENTAL"
 	},
 	{
-	"Familiy":"Resin",
+	"Family":"Resin",
 	"Type":"BIO"
 	}
 ]
