@@ -2,6 +2,7 @@
 	{
 	"Name":"i3 MK3S (Assembled)",
 	"MaterialFamily": "Filament",
+	"Technology": "FDM",
 	"Manufacturer": "Prusa Research a.s.",
 	"Price":999.0,
 	"Tax":0.0,
@@ -17,6 +18,7 @@
 	{
 	"Name":"i3 MK3S (Kit)",
 	"MaterialFamily": "Filament",
+	"Technology": "FDM",
 	"Manufacturer": "Prusa Research a.s.",
 	"Price":769.0,
 	"Tax":0.0,
@@ -32,6 +34,7 @@
 	{
 	"Name":"Mini (Assembled)",
 	"MaterialFamily": "Filament",
+	"Technology": "FDM",
 	"Manufacturer": "Prusa Research a.s.",
 	"Price":412.07,
 	"Tax":0.0,
@@ -47,6 +50,7 @@
 	{
 	"Name":"Mini (Kit)",
 	"MaterialFamily": "Filament",
+	"Technology": "FDM",
 	"Manufacturer": "Prusa Research a.s.",
 	"Price":372.73,
 	"Tax":0.0,
@@ -62,6 +66,7 @@
 	{
 	"Name":"SL1S",
 	"MaterialFamily": "Resin",
+	"Technology": "SLA",
 	"Manufacturer": "Prusa Research a.s.",
 	"Price":1946.29,
 	"Tax":0.0,
@@ -77,6 +82,7 @@
 	{
 	"Name":"Form 3",
 	"MaterialFamily": "Resin",
+	"Technology": "SLA",
 	"Manufacturer": "Formlabs",
 	"Price":3699.00,
 	"Tax":0.0,
@@ -92,6 +98,7 @@
 	{
 	"Name":"Form 3L",
 	"MaterialFamily": "Resin",
+	"Technology": "SLA",
 	"Manufacturer": "Formlabs",
 	"Price":9999.00,
 	"Tax":0.0,
@@ -107,6 +114,7 @@
 	{
 	"Name":"C1",
 	"MaterialFamily": "Filament",
+	"Technology": "FDM",
 	"Manufacturer": "CR-3D (Ingenieurbüro Christian Reil)",
 	"Price":6999.00,
 	"Tax":0.0,
@@ -122,6 +130,7 @@
 	{
 	"Name":"C1 Mini",
 	"MaterialFamily": "Filament",
+	"Technology": "FDM",
 	"Manufacturer": "CR-3D (Ingenieurbüro Christian Reil)",
 	"Price":3499.00,
 	"Tax":0.0,
