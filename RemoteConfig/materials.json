@@ -11,8 +11,6 @@
 	"UnitPrice":30.0,
 	"Tax":0.0,
 	"PriceIncludesTax":true,
-	"TechnicalDatasheet":"kg",
-	"SafetyDatasheet":"kg",
 	"TechnicalDatasheet":"https://shop.prusa3d.com/fotky/PETG_TechSheet_ENG.pdf",
 	"SafetyDatasheet":"https://shop.prusa3d.com/fotky/PETG_TSDS_ENG.pdf"
 	},
