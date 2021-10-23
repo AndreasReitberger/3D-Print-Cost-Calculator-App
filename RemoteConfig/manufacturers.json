@@ -1,0 +1,26 @@
+[
+	{
+	"Name":"Prusa Research a.s.",
+	"VAT":"",
+	"Web":"https://shop.prusa3d.com/",
+	"CountryCode":"CZ"
+	},
+	{
+	"Name":"Anycubic",
+	"VAT":"",
+	"Web":"https://www.anycubic.com/",
+	"CountryCode":"CN"
+	},
+	{
+	"Name":"CR-3D (Ingenieurbüro Christian Reil)",
+	"VAT":"",
+	"Web":"https://www.cr3d.de/",
+	"CountryCode":"DE"
+	},
+	{
+	"Name":"Formlabs",
+	"VAT":"",
+	"Web":"https://formlabs.com/eu/",
+	"CountryCode":"DE"
+	}
+]
